@@ -1,6 +1,6 @@
 # İngilizce <--> Türkçe Çeviri Programı
 Sistem Programlama dersinin ödevi.
 ## Proje Açıklaması:
-Girilen input.txt dosyasının çevirisini yapıp output.txt olarak çıkartır.
+txt klasöründe bulunan input.txt içinde yazan metinleri çevirip, output.txt'ye yazar.
 ## Emeği Geçen:
 - Kutay Sütçü
